@@ -14,5 +14,6 @@ Learned about git, github and usage of git in android studio. Created this repos
 
 ### Day 2
 1. Course followed till : https://youtu.be/F9UC9DY-vIU?t=3628 <br />
-   TL : Collections(array, list, map), iterating(for, forEach, forEachIndexed), Vararg, Spread(*) operator, named & default parameters   
-   
+   TL : Collections(array, list, map), iterating(for, forEach, forEachIndexed), Vararg, Spread(\*) operator, named & default parameters   
+2. Course followed till : https://youtu.be/RBSGKlAvoiM?t=2428 <br />
+   TL : Static and Dynamic ARRAY theory & implementaiton, Singly and Doubly LINKED LIST theory.
