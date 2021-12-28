@@ -11,3 +11,8 @@ Learned about git, github and usage of git in android studio. Created this repos
    Things learned       : Basics of kotlin: val, var, when, if, els, fun demo(). <br />
 2. Course followed till : https://youtu.be/RBSGKlAvoiM?t=1025 <br />
    Things learned       : Absract data types, Computational complexity analysis.
+
+### Day 2
+1. Course followed till : https://youtu.be/F9UC9DY-vIU?t=3628 <br />
+   Things learned       : Collections(array, list, map), iterating(for, forEach, forEachIndexed), Vararg, Spread(*) operator, named & default parameters   
+   
