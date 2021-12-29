@@ -17,3 +17,7 @@ Learned about git, github and usage of git in android studio. Created this repos
    TL : Collections(array, list, map), iterating(for, forEach, forEachIndexed), Vararg, Spread(\*) operator, named & default parameters   
 2. Course followed till : https://youtu.be/RBSGKlAvoiM?t=2428 <br />
    TL : Static and Dynamic ARRAY theory & implementaiton, Singly and Doubly LINKED LIST theory.
+
+### Day 3
+1. Course followed till : https://youtu.be/F9UC9DY-vIU?t=5578 <br />
+   TL : Class, Abstract class v/s Interface, Constructor, set(), get() , Visibility Modifiers(Public,Internal,Protected,Private)
