@@ -26,4 +26,4 @@ Learned about git, github and usage of git in android studio. Created this repos
    
 ### Day 4
 1. Course followed till : https://youtu.be/F9UC9DY-vIU?t=7208 <br />
-   TL : Type casting (is, as), Inheritance (open), Anonymus class (object expression), Companion Objects, Object Singolton, Enum and Sealed Class
+   TL : Type casting(is, as), Inheritance(open), Anonymus class(object expression), Companion Object, Object, Enum and Sealed Class
