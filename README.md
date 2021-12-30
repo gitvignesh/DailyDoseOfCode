@@ -23,3 +23,7 @@ Learned about git, github and usage of git in android studio. Created this repos
    TL : Class, Abstract class v/s Interface, Constructor, set(), get() , Visibility Modifiers(Public,Internal,Protected,Private)
 2. Course followed till : https://youtu.be/RBSGKlAvoiM?t=3506 <br />
    TL : Dynamic ARRAY implementaiton, Singly and Doubly LINKED LIST implmentation.
+   
+### Day 4
+1. Course followed till : https://youtu.be/F9UC9DY-vIU?t=7208 <br />
+   TL : Type casting (is, as), Inheritance (open), Anonymus class (object expression), Companion Objects, Object Singolton, Enum Class, Sealed Class
