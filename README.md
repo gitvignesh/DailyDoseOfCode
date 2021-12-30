@@ -27,4 +27,4 @@ Learned about git, github and usage of git in android studio. Created this repos
 ### Day 4
 1. Course followed till : https://youtu.be/F9UC9DY-vIU?t=7208 <br />
    TL : Type casting(is, as), Inheritance(open), Anonymus class(object expression), Companion Object, Object, Enum and Sealed Class
-2. Implmentaion code(Array, SLL, DLL) using kotlin concepts : 
+2. Code implementation using kotlin [Array](https://www.google.com/), [Singly Linked List](https://www.google.com/), [Doubly Linked List](https://www.google.com/)
