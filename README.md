@@ -30,6 +30,6 @@ Learned about git, github and usage of git in android studio. Created this repos
 2. Code implementation using kotlin [Dynamic Array](https://pl.kotl.in/gs0Zq7zj5){Using static array}
 
 ### Day 5
-1. Course Completed : https://youtu.be/F9UC9DY-vIU?t=9499 <br />
+1. Course Completed : https://youtu.be/F9UC9DY-vIU?t=9499  (&#x1F534;) <br />
    TL : Extension function and properties, Higher order function, Kotlin standerd library
 2. Code implmentation using kotlin [Singly and Doubly Linked List](https://pl.kotl.in/gs0Zq7zj5)
