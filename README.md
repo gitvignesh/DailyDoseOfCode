@@ -32,4 +32,6 @@ Learned about git, github and usage of git in android studio. Created this repos
 ### Day 5
 1. Course Completed : https://youtu.be/F9UC9DY-vIU?t=9499  (&#x1F534;) <br />
    TL : Extension function and properties, Higher order function, Kotlin standerd library
-2. Code implmentation using kotlin [Singly and Doubly Linked List](https://pl.kotl.in/gs0Zq7zj5)
+   
+### Day 6   
+1. Code implmentation using kotlin [Singly and Doubly Linked List](https://pl.kotl.in/gs0Zq7zj5)
