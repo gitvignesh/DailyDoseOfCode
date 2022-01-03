@@ -32,5 +32,5 @@ Learned about git, github and usage of git in android studio. Created this repos
 ### Day 5
 1. Code implementation using kotlin [Dynamic Array](https://pl.kotl.in/gs0Zq7zj5){Using static array}
    
-### Day 6   
+### Day 6, 7
 1. Code implmentation using kotlin [Singly and Doubly Linked List](https://pl.kotl.in/gs0Zq7zj5)
