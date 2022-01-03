@@ -30,7 +30,7 @@ Learned about git, github and usage of git in android studio. Created this repos
    Companion Object, Object, Enum and Sealed Class
 
 ### Day 5
-1. Code implementation using kotlin [Dynamic Array](https://pl.kotl.in/gs0Zq7zj5){Using static array}
+1. Code implementation using kotlin [Dynamic Array](https://pl.kotl.in/ZURm4j0cD){Using static array}
    
 ### Day 6, 7
 1. Code implmentation using kotlin [Singly and Doubly Linked List](https://pl.kotl.in/gs0Zq7zj5)
@@ -39,7 +39,7 @@ Learned about git, github and usage of git in android studio. Created this repos
 ## Week 2
 
 ### Day 8
-1. Course followed : 
+1. Course Completed : https://youtu.be/Uszj_k0DGsg (&#x1F534;) <br />
    TL : Intermediate git topics
 
 
