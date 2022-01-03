@@ -40,6 +40,6 @@ Learned about git, github and usage of git in android studio. Created this repos
 
 ### Day 8
 1. Course Completed : https://youtu.be/Uszj_k0DGsg (&#x1F534;) <br />
-   TL : Intermediate git topics
+   TL : Commit using context and ariticulated message, Branching Strategies(GitHub flow, Git flow), Pull request, Merge Conflicts, Merge v/s Rebase
 
 
