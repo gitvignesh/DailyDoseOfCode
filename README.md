@@ -34,3 +34,12 @@ Learned about git, github and usage of git in android studio. Created this repos
    
 ### Day 6, 7
 1. Code implmentation using kotlin [Singly and Doubly Linked List](https://pl.kotl.in/gs0Zq7zj5)
+
+
+## Week 2
+
+### Day 8
+1. Course followed : 
+   TL : Intermediate git topics
+
+
