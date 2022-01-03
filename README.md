@@ -25,7 +25,7 @@ Learned about git, github and usage of git in android studio. Created this repos
    TL : Dynamic ARRAY implementaiton, Singly and Doubly LINKED LIST implmentation.
    
 ### Day 4
-1. Course Completed : https://youtu.be/F9UC9DY-vIU?t=9499  (&#x1F534;) <br />
+1. Course Completed : https://youtu.be/F9UC9DY-vIU  (&#x1F534;) <br />
    TL : Extension function and properties, Higher order function, Kotlin standerd library, Type casting(is, as), Inheritance(open), Anonymus class(object expression),
    Companion Object, Object, Enum and Sealed Class
 
