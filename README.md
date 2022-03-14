@@ -1,8 +1,8 @@
 # DailyDoseOfCode-1
-This a repository to track my learning progress putting in one hour a day for 90 days on improving my programming skills.
+This a repository to track my learning progress putting in 1-2 hours a day.
 
 ### Day 0
-Learned about git, github and usage of git in android studio. Created this repostory and decided to implment learning in public concept.
+Learned about git, github and usage of git in android studio. Created this repostory and decided to try learning in public concept.
 
 ## Week 1
 
@@ -25,21 +25,26 @@ Learned about git, github and usage of git in android studio. Created this repos
    TL : Dynamic ARRAY implementaiton, Singly and Doubly LINKED LIST implmentation.
    
 ### Day 4
-1. Course Completed : https://youtu.be/F9UC9DY-vIU  (&#x1F534;) <br />
+Course Completed : https://youtu.be/F9UC9DY-vIU  (&#x1F534;) <br />
    TL : Extension function and properties, Higher order function, Kotlin standerd library, Type casting(is, as), Inheritance(open), Anonymus class(object expression),
    Companion Object, Object, Enum and Sealed Class
 
 ### Day 5
-1. Code implementation using kotlin [Dynamic Array](https://pl.kotl.in/ZURm4j0cD){Using static array}
+Code implementation using kotlin [Dynamic Array](https://pl.kotl.in/ZURm4j0cD){Using static array}
    
 ### Day 6, 7
-1. Code implmentation using kotlin [Singly and Doubly Linked List](https://pl.kotl.in/gs0Zq7zj5)
+Code implmentation using kotlin [Singly and Doubly Linked List](https://pl.kotl.in/gs0Zq7zj5)
 
 
 ## Week 2
 
 ### Day 8
-1. Course Completed : https://youtu.be/Uszj_k0DGsg (&#x1F534;) <br />
+Course Completed : https://youtu.be/Uszj_k0DGsg (&#x1F534;) <br />
    TL : Commit using context and ariticulated message, Branching Strategies(GitHub flow, Git flow), Pull request, Merge Conflicts, Merge v/s Rebase
+   
+### Day 9
+1. Course followed till : https://youtu.be/AeC4G-H-MQA?t=3591 <br />
+   TL : Mutalble v/s Immutable, Pass by value, Basic undestanding in Kotlin.
+2.    
 
 
