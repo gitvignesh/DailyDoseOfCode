@@ -45,6 +45,7 @@ Course Completed : https://youtu.be/Uszj_k0DGsg (&#x1F534;) <br />
 ### Day 9
 1. Course followed till : https://youtu.be/AeC4G-H-MQA?t=3591 <br />
    TL : Mutalble v/s Immutable, Pass by value, Basic undestanding in Kotlin.
-2.    
+2. Course followed till : https://youtu.be/bo_LP6QOUio?t=1802 <br />
+   TL : Basics of architecture, Basics of Graph DS.  
 
 
